@@ -35,20 +35,6 @@ High level explanation of data source
 - **PostgreSQL:** Software used to build databases and analyze data with SQL
 - **SQL:** Structured Query Language, used to query databases and quickly analyze structured data
 
-# <div align="center">Analysis and Challenges</div>
-In depth detail on steps taken to solve problem, including tools and how we modeled the data, include screenshots and code snippets
-
-![Image title](images/image.jpg)
-
-```
-Code snippet
-```
-
-# <div align="center">Results</div>
-
-
-# <div align="center">Summary</div>
-
 [Back to top](#cleaning-movie-metadata-with-python-and-sql)
 
 
